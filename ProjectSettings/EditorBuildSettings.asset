@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/00-Preloader/Preloader.unity
+    guid: e19b84c0513752744b832a9ddeff20c3
+  - enabled: 1
+    path: Assets/00-Preloader/MainMenu.unity
+    guid: ab6dd60769615ed43b3ef59c6769895e
+  - enabled: 1
+    path: Assets/00-Preloader/Login.unity
+    guid: 68c00e2bb5b576b4eb186dbd8f43d3fd
+  - enabled: 1
+    path: Assets/00-Preloader/NewAccount.unity
+    guid: 0b912815741909a40b938ec4b5306b0d
+  - enabled: 1
+    path: Assets/01-Home/LivingRoom.unity
+    guid: 50eeab64a19142743b878d43b20eaca5
+  - enabled: 1
+    path: Assets/01-Home/Kitchen.unity
+    guid: 4f94f49155ef45a4f9ff449274ed5c1c
+  - enabled: 1
+    path: Assets/01-Home/BedRoom.unity
+    guid: a687b41173d0d2a438b94dc7e96fe6bc
+  - enabled: 1
+    path: Assets/02-ShopFood/ShopFoodMenu.unity
+    guid: a94cd17962dd57444821e6067b5cbd5f
+  - enabled: 1
+    path: Assets/02-ShopFood/ShopFoodBuy.unity
+    guid: 3f71e31c7ebb95244af0057bb43d4e86
+  - enabled: 1
+    path: Assets/03-Memorama/Memoroma.unity
+    guid: 8030a535b0c8fc54eab03ff630efb9bd
+  - enabled: 1
+    path: Assets/04-Trivia/Persistent.unity
+    guid: fbf2013645a1d3c43b75406195925300
+  - enabled: 1
+    path: Assets/04-Trivia/IntroMenu.unity
+    guid: dbf938aaa84843e4f97c6db11e2553a2
+  - enabled: 1
+    path: Assets/04-Trivia/Trivia.unity
+    guid: 6a4a4d59088a8f24b80137353b1d7506
+  - enabled: 1
+    path: Assets/Scenes/MainMap.unity
+    guid: 855a1b5cfccaf7241aad919bd1993a4e
+  m_configObjects: {}
